@@ -1,3 +1,6 @@
+"
+kommentar
+"
 Class {
 	#name : #Mac1,
 	#superclass : #Object,

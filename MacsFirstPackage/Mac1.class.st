@@ -9,3 +9,15 @@ Class {
 	],
 	#category : #MacsFirstPackage
 }
+
+{ #category : #accessing }
+Mac1 >> legs [
+
+	^ legs
+]
+
+{ #category : #accessing }
+Mac1 >> legs: anObject [
+
+	legs := anObject
+]
